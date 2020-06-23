@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Lora|Playfair+Display:700i,900'); html,body { margin: 0; width: 100%;background-color:/*#F7F8FC*/;  } 
+
+
+.body{
+				padding:15px;
+				
+				}
+
+ h1 { font-family: "Playfair Display", serif; font-size: 40px; text-align: left; margin-bottom: 8px; padding:15px;} 
+ 
+ h2 { font-family: "Lato", sans-serif; font-size: 26px; font-weight: 700; padding: 15px; margin: 56px 0 -13px -1.883px; text-align: left; line-height: 34.5px; letter-spacing: -0.45px;} 
+ 
+ .h2{
+ 				font-family: "Lato", sans-serif; font-size: 50px; font-weight: 700; padding: ; margin: 56px 0 -13px -1.883px; text-align: left; line-height: 70px; letter-spacing: -0.45px;
+ 				}
+ 				
+ 
+  .h4{
+ 				font-family: "Lato", sans-serif; font-size: 20px; font-weight: 700; padding: ; /*margin: 56px 0 -13px -1.883px;*/ text-align: left; line-height:4px ; letter-spacing: -0.45px;
+ 				color:#10182F;
+ 				}
+
+
+
+
+
+
+
+input[type=email] {
+				
+				
+	 /*background-color:#F7F8FC ;*/
+  width: 220px;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border:2px solid #EFF1FC;
+  border-radius:4px;
+  /*-webkit-transition: 0.5s;
+  transition: 0.5s;*/
+  outline: none;
+  /*border-radius:8px;*/
+  color:#000/*#F1F1F3 #9B9B9A*/;
+  transition:0.3s;
+  font-family: "Lato", sans-serif;
+  font-weight:900;
+ 
+  
+  
+  
+}
+
+
+
+
+input[type=email]:focus {
+  border: 2px solid #333;
+  /*box-shadow:0.16px 0.16px 2px 1px #F6F6F4;
+  */
+  
+}
+
+
+input[type=submit]{
+				background-color:#000;
+				text-decoration:none;
+				font-family: "Lato", sans-serif;
+				color:#fff;
+				width:220px;
+				border:none;
+				border-radius:4px;
+				padding-left:80px;
+				padding-right:80px;
+				padding-top:15px;
+				padding-bottom:15px;
+				font-weight:900;
+				
+				}
+
+
+
+ .desig{
+   				font-family: "Lato", sans-serif; color:rgba(0, 0, 0, 0.54); margin: 0 0 24px 0; font-size:14px;
+   				}
+
+
+
+ .h3{
+ 				font-family: "Lato", sans-serif; font-size: 33px; font-weight: 700; padding: 15px; margin: 56px 0 -13px -1.883px; text-align: center; line-height: 34.5px; letter-spacing: -0.45px;
+ 				}
+ p, i, a{ margin-top: 21px; font-family: "Lora"; font-size: 21px; letter-spacing: -0.03px; line-height: 1.58; padding:15px;
+ color: rgba(0, 0, 0, 0.84) ; text-rendering: optimizeLegibility;
+ }
+ 
+ a{text-decoration:underline;}
+ 
+ 
+ 
+ 
+ .subtitle { font-family: "Lato", sans-serif; color: rgba(0, 0, 0, 0.54); margin: 0 0 24px 0; font-size:24px;} ::selection{background-color: #F5EDE4}
+   
+  .subtitled { font-family: "Lato", sans-serif; color:#A4A7B2; margin: 0 0 24px 0; font-size:16px; text-align:center; max-width:400px}
